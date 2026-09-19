@@ -1,4 +1,4 @@
-# Germany Immigration, Visa & Free Legal Support — Link Guide
+# Germany Immigration, Visa & Free Legal Support  Link Guide
 
 A curated reference for navigating German immigration: official federal sites, visa-type guides, and free/low-cost legal counselling.
 
