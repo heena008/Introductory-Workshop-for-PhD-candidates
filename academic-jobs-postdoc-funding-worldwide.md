@@ -1,4 +1,4 @@
-# Academic Job Portals & Postdoc Funding — Worldwide Guide
+# Academic Job Portals & Postdoc Funding  Worldwide Guide
 
 A curated reference for finding academic/research positions and postdoctoral fellowship funding globally.
 
