@@ -37,8 +37,8 @@ A curated guide to major tech conferences/networking events across the globe, pl
 
 | Event | Location | Focus | Link |
 |---|---|---|---|
-| LEAP | Riyadh, Saudi Arabia — February/April | AI, 5G, sustainable tech, startup pitch competitions | https://onegiantleap.com |
-| GITEX Global | Dubai, UAE — December | AI, cybersecurity, startups, digital transformation | https://www.gitex.com |
+| LEAP | Riyadh, Saudi Arabia February/April | AI, 5G, sustainable tech, startup pitch competitions | https://onegiantleap.com |
+| GITEX Global | Dubai, UAE  December | AI, cybersecurity, startups, digital transformation | https://www.gitex.com |
 | Step Conference | Dubai, UAE — varies | Startup ecosystem, MENA-focused networking | https://stepconference.com |
 
 ### Asia-Pacific
@@ -47,8 +47,8 @@ A curated guide to major tech conferences/networking events across the globe, pl
 |---|---|---|---|
 | Tokyo Game Show | Tokyo/Chiba, Japan — September | Gaming industry, developer networking | https://tgs.nikkeibp.co.jp/tgs/english/ |
 | Computex | Taipei, Taiwan — May/June | Hardware, computing, AI infrastructure | https://www.computextaipei.com.tw |
-| Singapore Fintech Festival | Singapore — November | Fintech, banking innovation, networking | https://www.fintechfestival.sg |
-| Web3 & AI Summit Hong Kong | Hong Kong — varies | Blockchain, Web3, AI | https://www.hkweb3festival.com |
+| Singapore Fintech Festival | Singapore  November | Fintech, banking innovation, networking | https://www.fintechfestival.sg |
+| Web3 & AI Summit Hong Kong | Hong Kong  varies | Blockchain, Web3, AI | https://www.hkweb3festival.com |
 
 ---
 
@@ -94,6 +94,6 @@ A curated guide to major tech conferences/networking events across the globe, pl
 
 ## 📝 Notes
 - Many of these conferences (Web Summit, VivaTech, TNW) run dedicated "startup" and "networking" tracks/badges separate from the main expo — worth checking their site for founder-specific passes.
-- For Hamburg/Germany specifically, smaller recurring meetups (PyData, PyLadies, AI Beavers — see earlier list) offer more frequent, lower-cost networking than the major international conferences above.
+- For Hamburg/Germany specifically, smaller recurring meetups (PyData, PyLadies, AI Beavers  see earlier list) offer more frequent, lower-cost networking than the major international conferences above.
 - Podcast recommendations above are grouped by use case: **General Tech** for industry awareness, **AI-Focused** for staying current on the fast-moving AI space, and **Developer-Focused** for hands-on engineering practice.
 - Conference dates/locations shift year to year — always confirm on the official event site before booking travel.
