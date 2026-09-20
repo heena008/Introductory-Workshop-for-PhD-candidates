@@ -10,7 +10,7 @@ A curated set of videos spanning foundational AI research, AI safety, AI's impac
 |---|---|
 | What is Foundational Research in the Age of AI? (with Tamara Kolda) | https://www.youtube.com/watch?v=1jfj85OriZ4&list=PLUPmrseJOCHs |
 | AI Is Making Coding Cheap. Here's What Matters Now (Andrew Ng & Laurence Moroney) | https://www.youtube.com/watch?v=AVvDFsMUxf0 |
-| A reasonable person's guide to how AI destroys humanity — About That | https://www.youtube.com/watch?v=cPgwnUr1sbE |
+| A reasonable person's guide to how AI destroys humanity  About That | https://www.youtube.com/watch?v=cPgwnUr1sbE |
 
 ##  Security
 
