@@ -65,7 +65,7 @@ A curated link list for job hunting and networking in the German (and especially
 
 ---
 
-## 🤝 Networking & Community Platforms
+##  Networking & Community Platforms
 
 ### PyData
 - Global: https://pydata.org
