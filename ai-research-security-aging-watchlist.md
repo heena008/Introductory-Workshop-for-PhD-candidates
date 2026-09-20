@@ -28,6 +28,6 @@ A curated set of videos spanning foundational AI research, AI safety, AI's impac
 ---
 
 ##  Notes
-- The "AI destroys humanity" and "Berlin hack" videos are both very recent (mid-September 2026) — worth revisiting for follow-up coverage as these stories develop.
-- The Tamara Kolda talk is part of a YouTube playlist (`PLUPmrseJOCHs`) — worth browsing the full playlist for related foundational-research talks.
+- The "AI destroys humanity" and "Berlin hack" videos are both very recent (mid-September 2026)  worth revisiting for follow-up coverage as these stories develop.
+- The Tamara Kolda talk is part of a YouTube playlist (`PLUPmrseJOCHs`)  worth browsing the full playlist for related foundational-research talks.
 - Themes across this list connect loosely: AI's growing capability and risk (Kolda talk, coding video, "destroys humanity" video) paired with real-world consequences of digital systems failing or aging populations needing new models of care.
