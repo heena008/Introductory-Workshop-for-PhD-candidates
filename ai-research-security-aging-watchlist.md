@@ -3,6 +3,12 @@
 A curated set of videos spanning foundational AI research, AI safety, AI's impact on software engineering, cybersecurity, and the future of elder care.
 
 ---
+##  Find the purpose
+
+| Title | Link |
+|---|---|
+| Oprah Winfrey: How to Find Your Unique Purpose, Authentic Power, and Calling in Life) |https://www.youtube.com/watch?v=adQyLViK_ZU|
+
 
 ##  AI & Research
 
