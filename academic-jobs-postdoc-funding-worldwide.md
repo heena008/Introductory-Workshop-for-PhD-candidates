@@ -118,7 +118,7 @@ A curated reference for finding academic/research positions and postdoctoral fel
 ---
 
 ##  Notes
-- Many fellowships (Marie Curie, Humboldt, HFSP, TWAS) are **open to all nationalities** — always check eligibility carefully, as citizenship/residency rules vary a lot by program.
+- Many fellowships (Marie Curie, Humboldt, HFSP, TWAS) are **open to all nationalities**  always check eligibility carefully, as citizenship/residency rules vary a lot by program.
 - **Euraxess** (https://euraxess.ec.europa.eu) is worth bookmarking separately it aggregates both academic jobs *and* funding opportunities across Europe in one searchable database.
 - Country-specific national science foundations (not all listed here) often have dedicated "incoming postdoc" tracks — search "[country name] national science foundation postdoctoral fellowship" for anything not covered above.
 - Deadlines for major fellowships (Fulbright, Marie Curie, Humboldt) are typically annual mark them early, as many require a host institution/supervisor to be arranged in advance.
