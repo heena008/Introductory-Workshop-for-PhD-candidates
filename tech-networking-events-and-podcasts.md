@@ -10,14 +10,14 @@ A curated guide to major tech conferences/networking events across the globe, pl
 
 | Event | Location | Focus | Link |
 |---|---|---|---|
-| CES (Consumer Electronics Show) | Las Vegas, USA — January | Consumer tech, AI devices, robotics, smart tech | https://www.ces.tech |
-| NVIDIA GTC | San Jose, USA — March | AI infrastructure, GPUs, accelerated computing | https://www.nvidia.com/gtc/ |
-| SXSW | Austin, USA — March | Technology, media, entertainment, startups | https://www.sxsw.com |
-| Google Cloud Next | San Francisco/online, USA — April | Cloud computing, AI infrastructure | https://cloud.withgoogle.com/next |
-| Google I/O | Mountain View, USA — May | Developer tools, Android, AI products | https://io.google |
-| AWS re:Invent | Las Vegas, USA — late November/December | Cloud computing, AWS ecosystem | https://reinvent.awsevents.com |
-| Dreamforce | San Francisco, USA — September/October | CRM, enterprise AI, automation (Salesforce) | https://www.salesforce.com/dreamforce/ |
-| TechCrunch Disrupt | San Francisco, USA — October | Startups, VC, early-stage pitching | https://techcrunch.com/events/tc-disrupt-2026/ |
+| CES (Consumer Electronics Show) | Las Vegas, USA  January | Consumer tech, AI devices, robotics, smart tech | https://www.ces.tech |
+| NVIDIA GTC | San Jose, USA  March | AI infrastructure, GPUs, accelerated computing | https://www.nvidia.com/gtc/ |
+| SXSW | Austin, USA  March | Technology, media, entertainment, startups | https://www.sxsw.com |
+| Google Cloud Next | San Francisco/online, USA  April | Cloud computing, AI infrastructure | https://cloud.withgoogle.com/next |
+| Google I/O | Mountain View, USA  May | Developer tools, Android, AI products | https://io.google |
+| AWS re:Invent | Las Vegas, USA  late November/December | Cloud computing, AWS ecosystem | https://reinvent.awsevents.com |
+| Dreamforce | San Francisco, USA  September/October | CRM, enterprise AI, automation (Salesforce) | https://www.salesforce.com/dreamforce/ |
+| TechCrunch Disrupt | San Francisco, USA  October | Startups, VC, early-stage pitching | https://techcrunch.com/events/tc-disrupt-2026/ |
 | Web Summit (North America edition varies) | — | Startups, SaaS, AI, marketing tech | https://websummit.com |
 
 ### Europe
@@ -25,13 +25,13 @@ A curated guide to major tech conferences/networking events across the globe, pl
 | Event | Location | Focus | Link |
 |---|---|---|---|
 | FOSDEM | Brussels, Belgium — late January/early February | Open source software, developer communities (free, volunteer-run) | https://fosdem.org |
-| MWC (Mobile World Congress) | Barcelona, Spain — March | Mobile tech, telecom, 5G, AI at network layer | https://www.mwcbarcelona.com |
-| VivaTech | Paris, France — June | Startups, corporates, deep tech, networking | https://vivatechnology.com |
-| Web Summit | Lisbon, Portugal — November | Startups, SaaS, AI — one of the world's largest tech gatherings | https://websummit.com |
-| Gamescom | Cologne, Germany — August | Gaming industry, esports, networking | https://www.gamescom.global |
-| Slush | Helsinki, Finland — November/December | Startup & investor networking, Nordic tech scene | https://www.slush.org |
-| TNW Conference (The Next Web) | Amsterdam, Netherlands — June | Startups, tech culture, networking | https://thenextweb.com/conference |
-| PyData / PyCon DE (Pioneers Hub) | Germany (various cities) — year-round | Data science, Python community networking | https://pydata.org |
+| MWC (Mobile World Congress) | Barcelona, Spain  March | Mobile tech, telecom, 5G, AI at network layer | https://www.mwcbarcelona.com |
+| VivaTech | Paris, France  June | Startups, corporates, deep tech, networking | https://vivatechnology.com |
+| Web Summit | Lisbon, Portugal  November | Startups, SaaS, AI — one of the world's largest tech gatherings | https://websummit.com |
+| Gamescom | Cologne, Germany  August | Gaming industry, esports, networking | https://www.gamescom.global |
+| Slush | Helsinki, Finland  November/December | Startup & investor networking, Nordic tech scene | https://www.slush.org |
+| TNW Conference (The Next Web) | Amsterdam, Netherlands  June | Startups, tech culture, networking | https://thenextweb.com/conference |
+| PyData / PyCon DE (Pioneers Hub) | Germany (various cities)  year-round | Data science, Python community networking | https://pydata.org |
 
 ### Middle East
 
@@ -39,7 +39,7 @@ A curated guide to major tech conferences/networking events across the globe, pl
 |---|---|---|---|
 | LEAP | Riyadh, Saudi Arabia February/April | AI, 5G, sustainable tech, startup pitch competitions | https://onegiantleap.com |
 | GITEX Global | Dubai, UAE  December | AI, cybersecurity, startups, digital transformation | https://www.gitex.com |
-| Step Conference | Dubai, UAE — varies | Startup ecosystem, MENA-focused networking | https://stepconference.com |
+| Step Conference | Dubai, UAE varies | Startup ecosystem, MENA-focused networking | https://stepconference.com |
 
 ### Asia-Pacific
 
