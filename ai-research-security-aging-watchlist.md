@@ -16,7 +16,7 @@ A curated set of videos spanning foundational AI research, AI safety, AI's impac
 
 | Title | Link |
 |---|---|
-| Berlin's biggest ever hack: How one employee let criminals steal 6 terabyte of data — DW News | https://www.youtube.com/watch?v=keD6przLGBE |
+| Berlin's biggest ever hack: How one employee let criminals steal 6 terabyte of data  DW News | https://www.youtube.com/watch?v=keD6przLGBE |
 
 ##  Aging & Elder Care
 
