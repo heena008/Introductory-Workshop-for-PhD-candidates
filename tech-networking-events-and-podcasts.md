@@ -93,7 +93,7 @@ A curated guide to major tech conferences/networking events across the globe, pl
 ---
 
 ##  Notes
-- Many of these conferences (Web Summit, VivaTech, TNW) run dedicated "startup" and "networking" tracks/badges separate from the main expo — worth checking their site for founder-specific passes.
+- Many of these conferences (Web Summit, VivaTech, TNW) run dedicated "startup" and "networking" tracks/badges separate from the main expo  worth checking their site for founder-specific passes.
 - For Hamburg/Germany specifically, smaller recurring meetups (PyData, PyLadies, AI Beavers  see earlier list) offer more frequent, lower-cost networking than the major international conferences above.
 - Podcast recommendations above are grouped by use case: **General Tech** for industry awareness, **AI-Focused** for staying current on the fast-moving AI space, and **Developer-Focused** for hands-on engineering practice.
 - Conference dates/locations shift year to year  always confirm on the official event site before booking travel.
