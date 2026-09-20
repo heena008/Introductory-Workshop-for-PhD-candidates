@@ -7,7 +7,7 @@ A curated set of videos spanning foundational AI research, AI safety, AI's impac
 
 | Title | Link |
 |---|---|
-| Oprah Winfrey: How to Find Your Unique Purpose, Authentic Power, and Calling in Life) |https://www.youtube.com/watch?v=adQyLViK_ZU|
+| Oprah Winfrey: How to Find Your Unique Purpose, Authentic Power, and Calling in Life) | https://www.youtube.com/watch?v=adQyLViK_ZU |
 
 
 ##  AI & Research
