@@ -40,7 +40,7 @@ A curated reference for finding academic/research positions and postdoctoral fel
 
 ---
 
-##  Postdoctoral Fellowships & Funding — Worldwide
+##  Postdoctoral Fellowships & Funding  Worldwide
 
 ###  International / Multi-Country
 
