@@ -1,7 +1,7 @@
 # Academic Job Portals & Postdoc Funding  Worldwide Guide
 
 A curated reference for finding academic/research positions and postdoctoral fellowship funding globally.
-
+Note : 12 year German law for academia Wisszeit vg https://www.uni-paderborn.de/en/zv/4-2/wissenschaftliche-tarifbeschaeftigte-1/german-academic-fixed-term-contract-act-wisszeitvg
 ---
 
 ##  Academic Job Portals (Worldwide & Multi-Disciplinary)
