@@ -1,10 +1,10 @@
-# Watch List — AI, Research, Security & Aging
+# Watch List  AI, Research, Security & Aging
 
 A curated set of videos spanning foundational AI research, AI safety, AI's impact on software engineering, cybersecurity, and the future of elder care.
 
 ---
 
-## 🧠 AI & Research
+##  AI & Research
 
 | Title | Link |
 |---|---|
@@ -12,13 +12,13 @@ A curated set of videos spanning foundational AI research, AI safety, AI's impac
 | AI Is Making Coding Cheap. Here's What Matters Now (Andrew Ng & Laurence Moroney) | https://www.youtube.com/watch?v=AVvDFsMUxf0 |
 | A reasonable person's guide to how AI destroys humanity — About That | https://www.youtube.com/watch?v=cPgwnUr1sbE |
 
-## 🔐 Security
+##  Security
 
 | Title | Link |
 |---|---|
 | Berlin's biggest ever hack: How one employee let criminals steal 6 terabyte of data — DW News | https://www.youtube.com/watch?v=keD6przLGBE |
 
-## 🏡 Aging & Elder Care
+##  Aging & Elder Care
 
 | Title | Link |
 |---|---|
@@ -27,7 +27,7 @@ A curated set of videos spanning foundational AI research, AI safety, AI's impac
 
 ---
 
-## 📝 Notes
+##  Notes
 - The "AI destroys humanity" and "Berlin hack" videos are both very recent (mid-September 2026) — worth revisiting for follow-up coverage as these stories develop.
 - The Tamara Kolda talk is part of a YouTube playlist (`PLUPmrseJOCHs`) — worth browsing the full playlist for related foundational-research talks.
 - Themes across this list connect loosely: AI's growing capability and risk (Kolda talk, coding video, "destroys humanity" video) paired with real-world consequences of digital systems failing or aging populations needing new models of care.
