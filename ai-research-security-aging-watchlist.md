@@ -1,9 +1,9 @@
-# Watch List Find the yourself, AI, Research, Security & Aging
+# Watch List Find  yourself, AI, Research, Security & Aging
 
 A curated set of videos spanning foundational AI research, AI safety, AI's impact on software engineering, cybersecurity, and the future of elder care.
 
 ---
-##  Find the yourself
+##  Find  yourself
 
 | Title | Link |
 |---|---|
