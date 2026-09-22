@@ -31,6 +31,12 @@ A curated set of videos spanning foundational AI research, AI safety, AI's impac
 | Could this project in Vienna be the future of retirement in Europe? | https://www.youtube.com/watch?v=SsWs6q0-DxQ |
 | Inside Kochi's Finest Assisted Living Home | https://www.youtube.com/watch?v=K42mRvi9IHw |
 
+##  Crisis 
+
+| Title | Link |
+|---|---|
+| How VW's crisis could reshape the global car industry | The Dip |https://www.youtube.com/watch?v=_CGyN2AUUro |
+
 ---
 
 ##  Notes
