@@ -35,7 +35,7 @@ A curated set of videos spanning foundational AI research, AI safety, AI's impac
 
 | Title | Link |
 |---|---|
-| How VW's crisis could reshape the global car industry | The Dip |https://www.youtube.com/watch?v=_CGyN2AUUro |
+| How VW's crisis could reshape the global car industry | The Dip | https://www.youtube.com/watch?v=_CGyN2AUUro |
 
 ---
 
