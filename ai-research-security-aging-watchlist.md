@@ -1,13 +1,15 @@
-# Watch List  AI, Research, Security & Aging
+# Watch List Find the yourself, AI, Research, Security & Aging
 
 A curated set of videos spanning foundational AI research, AI safety, AI's impact on software engineering, cybersecurity, and the future of elder care.
 
 ---
-##  Find the purpose
+##  Find the yourself
 
 | Title | Link |
 |---|---|
 | Oprah Winfrey: How to Find Your Unique Purpose, Authentic Power, and Calling in Life) | https://www.youtube.com/watch?v=adQyLViK_ZU |
+| How to Build a Life That Matters & Get What You Want Starting Today | https://www.youtube.com/watch?v=cWZI2RyI9wM|
+| Former CIA Spy: How to Read Anyone, Think Clearly, and Protect Yourself |https://www.youtube.com/watch?v=duWUa9Md_tU|
 
 
 ##  AI & Research
