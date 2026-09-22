@@ -25,6 +25,7 @@ A curated set of videos spanning finding yourself, foundational AI research, AI 
 | Title | Link |
 |---|---|
 | Berlin's biggest ever hack: How one employee let criminals steal 6 terabyte of data  DW News | https://www.youtube.com/watch?v=keD6przLGBE |
+| Dangerous apps - In the web of data brokers | https://www.youtube.com/watch?v=Y07j3hXAI-g |
 
 ##  Aging & Elder Care
 
