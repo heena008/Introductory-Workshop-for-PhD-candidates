@@ -3,6 +3,7 @@
 A curated reference for finding academic/research positions and postdoctoral fellowship funding globally.
 
 #### Note : 12 year German law for academia Wisszeitvg https://www.uni-paderborn.de/en/zv/4-2/wissenschaftliche-tarifbeschaeftigte-1/german-academic-fixed-term-contract-act-wisszeitvg
+Salary table for Germany 13 TV L : https://oeffentlicher-dienst.info/c/t/rechner/tv-l/allg?id=tv-l&g=E_13&s=1&zv=VBL&z=100&zulage=&stkl=1&lst4f=&r=0&zkf=0&kk=17.05%25
 ---
 
 ##  Academic Job Portals (Worldwide & Multi-Disciplinary)
