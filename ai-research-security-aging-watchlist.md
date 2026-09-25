@@ -39,6 +39,7 @@ A curated set of videos spanning finding yourself, foundational AI research, AI 
 | Title | Link |
 |---|---|
 | How VW's crisis could reshape the global car industry The Dip | https://www.youtube.com/watch?v=_CGyN2AUUro |
+| People are getting quieter and scientists are concerned  |https://www.youtube.com/watch?v=AeJ61w7be2A|
 
 ---
 
