@@ -23,7 +23,7 @@ A curated reference for navigating German immigration: official federal sites, v
 | Visa/Permit | Best Source | Notes |
 |---|---|---|
 | EU Blue Card | https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card | For university-degree holders with a qualifying job offer |
-| Skilled Worker Visa | https://www.make-it-in-germany.com/en/visa-residence/types/skilled-workers | For vocational-training or degree holders |
+| Skilled Worker Visa | https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals | For vocational-training or degree holders |
 | Opportunity Card (Chancenkarte) | https://www.make-it-in-germany.com/en/visa-residence/types/opportunity-card | Points-based visa for job seekers without a prior offer |
 | Job Seeker Visa | https://www.auswaertiges-amt.de/en/visa-service | Up to 6 months to search for work in Germany |
 | Freelance/Self-Employment Visa | https://www.make-it-in-germany.com/en/visa-residence/types/freelancers-self-employed | For freelancers and the self-employed |
