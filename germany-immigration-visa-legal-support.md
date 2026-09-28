@@ -12,7 +12,7 @@ A curated reference for navigating German immigration: official federal sites, v
 | Auswärtiges Amt (Federal Foreign Office) – Visa | https://www.auswaertiges-amt.de/en/visa-service | Official visa types, requirements, and embassy/consulate links |
 | Make it in Germany | https://www.make-it-in-germany.com | Official government portal for skilled workers — visas, job search, recognition of qualifications |
 | Skilled Immigration Act Portal (Fachkräfteeinwanderung) | https://www.bmi.bund.de/EN/topics/migration/migration-node.html | Federal Ministry of the Interior info on labour migration law |
-| Federal Employment Agency (Bundesagentur für Arbeit) | https://www.arbeitsagentur.de | Confirms/approves employment contracts as part of visa process |
+| Federal Employment Agency (Bundesagentur für Arbeit) | https://www.arbeitsagentur.de |It provides services for the labor market as a federal agency, including job placement, job advice and job promotion, administering German unemployment insurance, and regulating unemployment benefit. |
 | Anabin Database | https://anabin.kmk.org | Official database to check if your foreign degree is recognized in Germany |
 | Justizportal Beratungshilfe (state legal aid) | https://service.justiz.de/beratungshilfe | Official portal to apply for state-funded legal aid (Beratungshilfe/Prozesskostenhilfe) |
 
