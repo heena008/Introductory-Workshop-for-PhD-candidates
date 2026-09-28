@@ -26,7 +26,7 @@ A curated reference for navigating German immigration: official federal sites, v
 | Skilled Worker Visa | https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals | For vocational-training or degree holders |
 | Opportunity Card (Chancenkarte) | https://www.make-it-in-germany.com/en/visa-residence/opportunity-card/job-search| Points-based visa for job seekers without a prior offer |
 | Job Seeker Visa | https://www.auswaertiges-amt.de/en/visa-service | Up to 6 months to search for work in Germany |
-| Freelance/Self-Employment Visa | https://www.make-it-in-germany.com/en/visa-residence/types/freelancers-self-employed | For freelancers and the self-employed |
+| Freelance/Self-Employment Visa | https://www.make-it-in-germany.com/en/visa-residence/types/other/self-employment | For freelancers and the self-employed |
 | Family Reunification Visa | https://www.auswaertiges-amt.de/en/visa-service | For joining a spouse/family member already in Germany |
 | Student Visa | https://www.make-it-in-germany.com/en/study | For university applicants and enrolled students |
 | General Visa Overview (all types) | https://www.auswaertiges-amt.de/en/visa-service | Full breakdown by purpose of stay, official Foreign Office source |
