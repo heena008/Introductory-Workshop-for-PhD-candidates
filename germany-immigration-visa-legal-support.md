@@ -28,7 +28,7 @@ A curated reference for navigating German immigration: official federal sites, v
 | Job Seeker Visa | https://www.auswaertiges-amt.de/en/visa-service | Up to 6 months to search for work in Germany |
 | Freelance/Self-Employment Visa | https://www.make-it-in-germany.com/en/visa-residence/types/other/self-employment | For freelancers and the self-employed |
 | Family Reunification Visa | https://www.auswaertiges-amt.de/en/visa-service | For joining a spouse/family member already in Germany |
-| Student Visa | https://www.make-it-in-germany.com/en/study | For university applicants and enrolled students |
+| Student Visa | https://www.make-it-in-germany.com/en/visa-residence/types/studying | For university applicants and enrolled students |
 | General Visa Overview (all types) | https://www.auswaertiges-amt.de/en/visa-service | Full breakdown by purpose of stay, official Foreign Office source |
 
 ---
