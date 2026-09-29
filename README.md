@@ -41,7 +41,7 @@ Step-by-step overview of founding a startup in Germany: business registration (G
 
 ## Funding in Academia
 
-Overview of common funding mechanisms for researchers and PhD candidates, including scholarships, grants, and third-party funding (Drittmittel), and how they compare to funding options for a career change (e.g. Bildungsgutschein).
+Overview of common funding mechanisms for researchers and PhD candidates, including scholarships, grants, and third-party funding (Drittmittel.
 
 ## German Immigration Visa Types
 
