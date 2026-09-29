@@ -16,7 +16,7 @@ Whether you're a final-year PhD student, a postdoc, or simply exploring what com
 - [German Immigration Visa Types](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/germany-immigration-visa-legal-support.md)
 - [Germany Jobs and Network](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/germany-jobs-and-networks.md)
 - [Tech Networking Events and Podcasts](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/tech-networking-events-and-podcasts.md)
--[Watchlist](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/ai-research-security-aging-watchlist.md) 
+- [Watchlist](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/ai-research-security-aging-watchlist.md) 
 
 ---
 
