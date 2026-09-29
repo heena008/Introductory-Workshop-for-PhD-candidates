@@ -24,7 +24,7 @@ A curated guide to major tech conferences/networking events across the globe, pl
 
 | Event | Location | Focus | Link |
 |---|---|---|---|
-| FOSDEM | Brussels, Belgium — late January/early February | Open source software, developer communities (free, volunteer-run) | https://fosdem.org |
+| FOSDEM | Brussels, Belgium  late January/early February | Open source software, developer communities (free, volunteer-run) | https://fosdem.org |
 | MWC (Mobile World Congress) | Barcelona, Spain  March | Mobile tech, telecom, 5G, AI at network layer | https://www.mwcbarcelona.com |
 | VivaTech | Paris, France  June | Startups, corporates, deep tech, networking | https://vivatechnology.com |
 | Web Summit | Lisbon, Portugal  November | Startups, SaaS, AI — one of the world's largest tech gatherings | https://websummit.com |
