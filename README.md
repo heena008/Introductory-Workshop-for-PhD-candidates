@@ -24,9 +24,6 @@ Whether you're a final-year PhD student, a postdoc, or simply exploring what com
 
 Overview of the different CV formats used internationally (academic CV, industry CV/resume, Europass, chronological vs. skills-based) and when to use each one when transitioning from academia to industry.
 
-## Watch list
-The recommended watchlist for AI research, aging, finding purpose, and crisis.
-
 ## Career after PhD by Different Field
 
 A look at typical post-PhD career paths broken down by field (e.g. life sciences, engineering, computer science, social sciences), including roles in industry R&D, data science, consulting, product management, and more.
@@ -55,4 +52,6 @@ Where and how to find jobs in Germany as a PhD graduate — key job boards, recr
 
 Curated list of tech meetups, conferences, and podcasts useful for building a network in the German and international tech/data science community.
 
+## Watch list
+The recommended watchlist for AI research, aging, finding purpose, and crisis.
 
