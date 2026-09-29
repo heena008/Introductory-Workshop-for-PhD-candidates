@@ -1,2 +1,57 @@
-# Introductory Workshop for  PhD candidates
-This free 2-hour  introductory workshop is designed to give you practical insight into that transition  grounded in  real experience, not just theory. 
+# Introductory Workshop for PhD Candidates
+
+This 2-hour introductory workshop is designed to give you practical insight into the transition from academia to industry — grounded in real experience, not just theory.
+
+Whether you're a final-year PhD student, a postdoc, or simply exploring what comes after academia, this workshop covers the practical building blocks: how to present your experience, what career paths look like across fields, how funding and visas work in Germany, and where to find the right networks.
+
+---
+
+## Table of Contents
+
+- [CV Types in the World]((https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/CV_Types_Worldwide_Tech.pdf))
+- [Career after PhD by Different Field](#career-after-phd-by-different-field)
+- [Comparison between Freelancer and Startup in Germany](#comparison-between-freelancer-and-startup-in-germany)
+- [How to Open a Startup in Germany](#how-to-open-a-startup-in-germany)
+- [Funding in Academia](#funding-in-academia)
+- [German Immigration Visa Types](#german-immigration-visa-types)
+- [Germany Jobs and Network](#germany-jobs-and-network)
+- [Tech Networking Events and Podcasts](#tech-networking-events-and-podcasts)
+
+---
+
+## CV Types in the World
+
+Overview of the different CV formats used internationally (academic CV, industry CV/resume, Europass, chronological vs. skills-based) and when to use each one when transitioning from academia to industry.
+
+## Watch list
+The recommended watchlist for AI research, aging, finding purpose, and crisis.
+
+## Career after PhD by Different Field
+
+A look at typical post-PhD career paths broken down by field (e.g. life sciences, engineering, computer science, social sciences), including roles in industry R&D, data science, consulting, product management, and more.
+
+## Comparison between Freelancer and Startup in Germany
+
+A side-by-side comparison of working as a freelancer (Freiberufler/Selbstständig) versus founding or joining a startup in Germany — covering legal status, taxation, income stability, and lifestyle trade-offs.
+
+## How to Open a Startup in Germany
+
+Step-by-step overview of founding a startup in Germany: business registration (Gewerbeanmeldung), choosing a legal form (e.g. UG, GmbH), funding sources, and key resources for founders.
+
+## Funding in Academia
+
+Overview of common funding mechanisms for researchers and PhD candidates, including scholarships, grants, and third-party funding (Drittmittel), and how they compare to funding options for a career change (e.g. Bildungsgutschein).
+
+## German Immigration Visa Types
+
+Summary of visa categories relevant to international PhD candidates and researchers in Germany, including the Job Seeker Visa, Blue Card, Freelance Visa, and residence permits for researchers.
+
+## Germany Jobs and Network
+
+Where and how to find jobs in Germany as a PhD graduate — key job boards, recruitment agencies, and the role of professional networks like LinkedIn and Xing.
+
+## Tech Networking Events and Podcasts
+
+Curated list of tech meetups, conferences, and podcasts useful for building a network in the German and international tech/data science community.
+
+
