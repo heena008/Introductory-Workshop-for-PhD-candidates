@@ -10,12 +10,13 @@ Whether you're a final-year PhD student, a postdoc, or simply exploring what com
 
 - [CV Types in the World](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/CV_Types_Worldwide_Tech.pdf)
 - [Career after PhD by Different Field](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/Career_After_Phd_by_Field.pdf)
-- [Comparison between Freelancer and Startup in Germany](#comparison-between-freelancer-and-startup-in-germany)
-- [How to Open a Startup in Germany](#how-to-open-a-startup-in-germany)
-- [Funding in Academia](#funding-in-academia)
-- [German Immigration Visa Types](#german-immigration-visa-types)
-- [Germany Jobs and Network](#germany-jobs-and-network)
-- [Tech Networking Events and Podcasts](#tech-networking-events-and-podcasts)
+- [Comparison between Freelancer and Startup in Germany](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/Freelancer_vs_Startup_Germany.pdf)
+- [How to Open a Startup in Germany](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/How_to_open_Startup_in_Germany.pdf)
+- [Funding in Academia](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/academic-jobs-postdoc-funding-worldwide.md)
+- [German Immigration Visa Types](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/germany-immigration-visa-legal-support.md)
+- [Germany Jobs and Network](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/germany-jobs-and-networks.md)
+- [Tech Networking Events and Podcasts](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/tech-networking-events-and-podcasts.md)
+-[Watchlist](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/ai-research-security-aging-watchlist.md) 
 
 ---
 
