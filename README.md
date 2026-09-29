@@ -8,7 +8,7 @@ Whether you're a final-year PhD student, a postdoc, or simply exploring what com
 
 ## Table of Contents
 
-- [CV Types in the World]((https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/CV_Types_Worldwide_Tech.pdf))
+- [CV Types in the World](https://github.com/heena008/Introductory-Workshop-for-PhD-candidates/blob/main/CV_Types_Worldwide_Tech.pdf)
 - [Career after PhD by Different Field](#career-after-phd-by-different-field)
 - [Comparison between Freelancer and Startup in Germany](#comparison-between-freelancer-and-startup-in-germany)
 - [How to Open a Startup in Germany](#how-to-open-a-startup-in-germany)
