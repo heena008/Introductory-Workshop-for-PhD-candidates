@@ -6,16 +6,19 @@ Whether you're a final-year PhD student, a postdoc, or simply exploring what com
 
 
 
-🟢 Upcoming Workshops
-Date	Workshop	Format	Location
-DD Month YYYY	Workshop Name	Online	—
-DD Month YYYY	Workshop Name	On-site	[Location]
-DD Month YYYY	Workshop Name	Online	—
-⚪ Past Workshops
-Date	Workshop	Format	Location
-DD Month YYYY	Workshop Name	Online	—
-DD Month YYYY	Workshop Name	On-site	[Location]
-DD Month YYYY	Workshop Name	Online	—
+## 🟢 Upcoming Workshops
+
+| Date | Workshop registration links| Format |
+|---|---|---|
+| 30 Oct 2026 | [Turning Your PhD Into a Career Advantage](https://www.eventbrite.com/e/turning-your-phd-into-a-career-advantage-tickets-2001696788980?aff=oddtdtcreator) | On-site |
+| 09 Nov 2026 | [Turning Your PhD Into a Career Advantage](https://www.eventbrite.de/e/turning-your-phd-into-a-career-advantage-tickets-2001697013652?aff=oddtdtcreator) | Online |
+
+## ⚪ Past Workshops
+
+| Date | Workshop | Format |
+|---|---|---|
+| 30 Sep 2026 | [Turning Your PhD Into a Career Advantage](https://www.eventbrite.com/e/turning-your-phd-into-a-career-advantage-tickets-2001693477074?aff=oddtdtcreator) | Online |
+
 
 ---
 
