@@ -9,14 +9,14 @@ Whether you're a final-year PhD student, a postdoc, or simply exploring what com
 
 | Date | Workshop | Format |
 |---|---|---|
-| 30 Oct 2026 | [Turning Your PhD Into a Career Advantage]| On-site |
-| 09 Nov 2026 | [Turning Your PhD Into a Career Advantage] | Online |
+| 30 Oct 2026 | Turning Your PhD Into a Career Advantage| Online |
+| 09 Nov 2026 | Turning Your PhD Into a Career Advantage | Offline |
 
 ## ⚪ Past Workshops
 
 | Date | Workshop | Format |
 |---|---|---|
-| 30 Sep 2026 | [Turning Your PhD Into a Career Advantage] | Online |
+| 30 Sep 2026 | Turning Your PhD Into a Career Advantage | Online |
 
 
 ---
