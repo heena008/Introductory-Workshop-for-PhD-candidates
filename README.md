@@ -4,6 +4,19 @@ This 2-hour introductory workshop is designed to give you practical insight into
 
 Whether you're a final-year PhD student, a postdoc, or simply exploring what comes after academia, this workshop covers the practical building blocks: how to present your experience, what career paths look like across fields, how funding and visas work in Germany, and where to find the right networks.
 
+
+
+🟢 Upcoming Workshops
+Date	Workshop	Format	Location
+DD Month YYYY	Workshop Name	Online	—
+DD Month YYYY	Workshop Name	On-site	[Location]
+DD Month YYYY	Workshop Name	Online	—
+⚪ Past Workshops
+Date	Workshop	Format	Location
+DD Month YYYY	Workshop Name	Online	—
+DD Month YYYY	Workshop Name	On-site	[Location]
+DD Month YYYY	Workshop Name	Online	—
+
 ---
 
 ## Table of Contents
