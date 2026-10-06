@@ -4,7 +4,7 @@ This 2-hour introductory workshop is designed to give you practical insight into
 
 Whether you're a final-year PhD student, a postdoc, or simply exploring what comes after academia, this workshop covers the practical building blocks: how to present your experience, what career paths look like across fields, how funding and visas work in Germany, and where to find the right networks.
 
-
+https://www.eventbrite.com/e/turning-your-phd-into-a-career-advantage-tickets-2001693477074?aff=oddtdtcreator
 
 ## 🟢 Upcoming Workshops
 
