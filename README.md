@@ -18,8 +18,6 @@ Whether you're a final-year PhD student, a postdoc, or simply exploring what com
 |---|---|---|
 | 30 Sep 2026 | Turning Your PhD Into a Career Advantage | Online |
 
-https://www.eventbrite.de/e/turning-your-phd-into-a-career-advantage-tickets-2001693477074?aff=oddtdtcreator
-
 
 ---
 
