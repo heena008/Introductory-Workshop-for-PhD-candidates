@@ -3,13 +3,12 @@
 This 2-hour introductory workshop is designed to give you practical insight into the transition from academia to industry grounded in real experience, not just theory.
 
 Whether you're a final-year PhD student, a postdoc, or simply exploring what comes after academia, this workshop covers the practical building blocks: how to present your experience, what career paths look like across fields, how funding and visas work in Germany, and where to find the right networks.
-https://www.eventbrite.com/e/turning-your-phd-into-a-career-advantage-tickets-2001696788980?aff=oddtdtcreator
 
 ## 🟢 Upcoming Workshops
 
 | Date | Workshop | Format |
-|---|---|---|
-| 30 Oct 2026 | Turning Your PhD Into a Career Advantage| Online |
+|---|---|---|---|
+| 30 Oct 2026 | Turning Your PhD Into a Career Advantage| Online |https://www.eventbrite.com/e/turning-your-phd-into-a-career-advantage-tickets-2001696788980?aff=oddtdtcreator|
 | 09 Nov 2026 | Turning Your PhD Into a Career Advantage | Offline |
 
 ## ⚪ Past Workshops
