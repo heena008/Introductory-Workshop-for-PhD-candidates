@@ -14,7 +14,7 @@ Whether you're a final-year PhD student, a postdoc, or simply exploring what com
 
 ## ⚪ Past Workshops
 
-| Date and Time | Workshop | Format |
+| Date and Time | Workshop Registration links | Format |
 |---|---|---|
 | 30 Sep 2026 15:00 to 17: 00| [Turning Your PhD Into a Career Advantage](https://www.eventbrite.com/e/turning-your-phd-into-a-career-advantage-tickets-2001693477074?aff=oddtdtcreator) | Online |
 
